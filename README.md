@@ -1,5 +1,13 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on building myself through virtual internships and searching for suitable onsite internship opportunities aligned with my studies and interests. I’m primarily focused on self-learning and strengthening my fundamentals. Currently, I’m working on multiple projects, including personal projects as well as a college library project and my final-year project.<br><br>👯 I’m looking to collaborate on beginner-level projects, college academic projects, Python-based and open-source initiatives, including Google Cloud–related work. I’m also interested in web development projects and aspire to contribute to large-scale collaborations such as GSoC in the future.<br><br>🤝 I’m looking for help with finding a hackathon team, contributing to open-source projects, and receiving guidance related to career growth and internship opportunities.<br><br>🌱 I’m currently learning Google Cloud through Google Skills courses and learning paths. I’m gaining experience via virtual internships and startup-related projects, while improving my understanding of cloud technologies and strengthening my Git and version control skills.<br><br>💬 Ask me about Python basics, beginner coding help, Google Cloud fundamentals, GitHub and LinkedIn profile building, finding internships online, and how to effectively build skills through internships. I can also help with understanding the importance of strong fundamentals, along with basic concepts of AI and Machine Learning.<br><br>⚡ Fun fact: I’m a late-night coder and project builder. I often use AI for coding assistance, but I’m comfortable debugging intermediate-level Python errors on my own. I enjoy prompt engineering, prefer working with currently relevant AI tools, and love learning through YouTube, virtual internships, and real market trends. A latte keeps me productive while working, and I’ve recently started exploring the basics of cybersecurity as well.<br>
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science student focused on self-learning and strong fundamentals  
+- 🔭 Working on virtual internships, personal projects, and a college library project  
+- 🌱 Learning Google Cloud (Google Skills), Git, and startup-based projects  
+- 👯 Open to beginner, academic, Python, web, and open-source collaborations (aspiring GSoC)  
+- 🤝 Seeking guidance for hackathons, open-source contributions, and internships  
+- 💬 Ask me about Python basics, Google Cloud fundamentals, GitHub, LinkedIn, and internships  
+- ⚡ Late-night coder, prompt engineering enthusiast, comfortable debugging Python errors
+
 
 
 ## 🌐 Socials:
